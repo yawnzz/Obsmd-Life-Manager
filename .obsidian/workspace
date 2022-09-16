@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Guide/Quick Start.md",
+            "file": "02 Action/01 Tasks/Views/‼️ Overdue Tasks.md",
             "mode": "preview",
             "source": false
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Guide/Quick Start.md",
+                "file": "02 Action/01 Tasks/Views/‼️ Overdue Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,12 +161,12 @@
   },
   "active": "64b037a330b673e8",
   "lastOpenFiles": [
+    "02 Action/01 Tasks/01 Tasks.md",
+    "02 Action/02 Action.md",
     "06 Guide/Quick Start.md",
     "README.md",
     "Home.md",
-    "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
-    "02 Action/02 Action.md",
     "03 Periodic/01 Daily/2022/03-March/2022-03-01.md",
     "04 Templates/Daily Template.md",
     "06 Guide/Daily Note.md",
