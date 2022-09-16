@@ -3,7 +3,7 @@ tags: goal
 ---
 # Learn to make pastas
 
-[Why :: For zest!]  ⠀•⠀ [Value:: [[Be Zesty]]]  ⠀•⠀ [Deadline :: 📅 2022-03-06]  ⠀•⠀ [Complete :: ❌]
+[Why :: For zest!]  ⠀•⠀ [Value:: [[For Emma]]]  ⠀•⠀ [Deadline :: 📅 2022-03-06]  ⠀•⠀ [Complete :: ❌]
 
 ---
 ## Related Projects
